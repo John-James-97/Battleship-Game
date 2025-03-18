@@ -139,7 +139,7 @@ Main function that initializes the game, handles player turns, and manages the g
 
 ## Project Details
 
-- **Author**: Geoffrey Giordano
+- **Author**: John James
 - **Game Type**: Single-player Battleship game against a CPU opponent.
 - **Board Size**: 10x10 grid for both player and CPU.
 - **Ship Placement**: Ships can be placed manually by the player, randomly by the program, or via text file input.
